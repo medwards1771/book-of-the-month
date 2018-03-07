@@ -1,0 +1,26 @@
+.centered-vertically-horizontally {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  height: 60vh;
+}
+
+.welcome {
+  font-size: xx-large;
+}
+
+.enter-site {
+  padding-top: 5%;
+}
+
+.sign-in {
+  text-align: right;
+  padding-right: 10%;
+}
+
+.subscribe {
+  text-align: right;
+  padding-right: 10%;
+}
